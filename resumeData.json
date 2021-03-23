@@ -1,0 +1,199 @@
+{
+  "main": {
+    "name":"Sahar FRIKHA",
+    "occupation":"Software Engineer",
+    "description":"I believe in the power of programming to transform and improve the lives of people around the world, that's one of reasons I chosen to study master's in Process of Livings’ Information and Complexity (TICV).",
+    "image":"profilepic.jpg",
+    "bio":"A highly passionate, motivated and creative software engineer with good communication skills. Eager to learn and share knowledge.",
+    "contactmessage":"Looking forward to get in touch with you.",
+    "email": "sahar.frikha@etudiant-enit.utm.tn",
+    "phone": "+216 52 972 724",
+    "address":{
+      "street":"Manar 1",
+      "city":"Tunis",
+      "state":"Tunisia",
+      "zip": "2019"
+    },
+    "website": "https://sahar-frikha.github.io/Personal-Website/",
+    "resumedownload":"https://drive.google.com/drive/folders/1KcOObZsUv224mZsPoq0cwxEY650wWW_Y?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/sahar.frikha.5",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sahar-frikha-873585176/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/sahar_frikha/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/sahar-frikha",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/mi4jamSQ20lD",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Get to know me better",
+    "education":[
+      {
+        "school":"National School of enginners of Tunis",
+        "degree":"Masters in Process of Livings’ Information and Complexity (TICV)",
+        "graduated":"Octobre 2021",
+        "description":"Signal Perception Image (SPI) Speciality"
+      },
+      {
+        "school":"National School of enginners of Tunis",
+        "degree":"Software Engineering Diploma and Masters in Process of Livings’ Information and Complexity (TICV)",
+        "graduated":"July 2021",
+        "description":"Department of Information and Communication Technologies "
+      },
+      {
+        "school":"Sfax Preparatory Engineering Institute",
+        "degree":"Theorical Physics and Mathematics",
+        "graduated":"September 2018",
+        "description":"Ranked 289 out of 1300 in the National competition for entering to engineering schools"
+      },
+      {
+        "school":"Habib Thameur High School",
+        "degree":"High School Diploma specialized in Mathematics with high Honor.",
+        "graduated":"September 2016",
+        "description":""
+      }
+
+    ],
+    "work":[
+      {
+        "company":"Integration Objects (IO)",
+        "title":"Software Engineer Intern",
+        "years":"March 2021",
+        "description":"Smart IoT Solution for Real Time Data Exchange Between Devices"
+      },
+      {
+        "company":"TAGPAY LTD, United Kingdom",
+        "title":"Research Software Engineer",
+        "years":"November 2020",
+        "description":""
+      },
+      {
+        "company":"I Connect Services (ICS)",
+        "title":"Data Scientist",
+        "years":"September 2020",
+        "description":"Sentiment Analysis - Face Emotions Prediction"
+      },
+      {
+        "company":"Primatec Engineering",
+        "title":"Software Engineer Intern",
+        "years":"July 2020",
+        "description":"Enhance Python Testing Scripts"
+      },
+      {
+        "company":"UniQ Soft Technology, Switzland",
+        "title":"Front-End Web Developer",
+        "years":"June 2020",
+        "description":"Renue the company website, uniqfst.com"
+      },
+      {
+        "company":"Tunisian Ministery of Health",
+        "title":"Full-stack Web Developer",
+        "years":"March 2020",
+        "description":"Donation management platform for the Covid-19 epidemic, 197.14.56.37:8080/PlatformeGDWEB/"
+      },
+      {
+        "company":"All Software Multimedia (ASM)",
+        "title":"Software Intern",
+        "years":"June 2019",
+        "description":"Order management desktop application using .NET technologies."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Machine Learning, Deep Learning, Computer Vision, NLP",
+        "level":"65%"
+      },
+      {
+        "name":"Java, JEE, Spring Boot",
+        "level":"40%"
+      },
+      {
+        "name":"ReactJs, Angular",
+        "level":"70%"
+      },
+      {
+        "name":"Flutter, Android",
+        "level":"60%"
+      },
+      {
+        "name":"Python, Flask, Django",
+        "level":"90%"
+      },
+      {
+        "name":"CSS, HTML, JavaScript, PHP",
+        "level":"90%"
+      },
+      {
+        "name":"SQL, MongoDB, Oracle",
+        "level":"80%"
+      },
+      {
+        "name":"Git, , Docker, DevOps",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"TAGPAY Web Site",
+        "category":"React.js",
+        "image":"TAGPAY.JPG",
+        "url":"https://www.tagpay.co"
+      },
+      {
+        "title":"UniQ Soft Technology Web Site",
+        "category":"HTML, CSS, JS, PHP",
+        "image":"UniQ.JPG",
+        "url":"https://www.uniqfst.com"
+      },
+      {
+        "title":"Donation Plateform",
+        "category":"JEE Application",
+        "image":"CoviDon.JPG",
+        "url":"http://197.14.56.37:8080/PlatformeGDWEB/"
+      },
+      {
+        "title":"Personal Web Site",
+        "category":"React.js",
+        "image":"Resume.JPG",
+        "url":""
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Sahar did a great job while building our web site. She understood our requirements and paid attention to every detail. We don't hesitate to recommend her for any company who wants to build or renew its web site.",
+        "user":"Bechir Yakhlef"
+      },
+      {
+        "text":"Sahar is a very talented engineer, I’ve had the pleasure of working with Sahar in various projects during her internship. Sahar's energy to make things happen was contagious and it helped us achieve great goals, And, of course, her work ethic is above description. Sahar would be a real asset for any position requiring software skills and comes with my sincere recommendation.",
+        "user":"Ahmed Dalhoum"
+      },
+      {
+          "text":"passionate person with a real problem solving attitude and a learning appetite.",
+          "user":"Kais El Euchi"
+      }
+    ]
+  }
+}
